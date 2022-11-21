@@ -9,8 +9,8 @@ body {
   position: relative;
   font-family: "Goudy Bookletter 1911", sans-serif;
   font-size: 20px;
-  background-color: #FDF8F5;
-  color: #4F4846;
+  background-color: #c6d4ff;
+  color: #93032e;
 }
 
 h1,
@@ -30,7 +30,7 @@ li {
 
 a {
   text-decoration: none;
-  color: #FDF8F5;
+  color: #93032e;
 }
 
 header,
@@ -38,20 +38,20 @@ footer {
   height: 60px;
   width: 100%;
   line-height: 60px;
-  background-color: #266150;
+  background-color: #668586;
 }
 
 header {
   position: fixed;
-  border-bottom: 10px solid #DDAF94;
+  border-bottom: 10px solid #3D3B8E;
 }
 
 footer {
   position: absolute;
   margin-top: 0;
   bottom: 0;
-  border-bottom: 10px solid #4F4846;
-  color: #FDF8F5;    
+  border-bottom: 10px solid #3D3B8E;
+  color: #93032e;    
 }
 
 figure {
@@ -66,8 +66,8 @@ img {
 section {
   margin-bottom: 0;
   padding: 20px 10px 40px 10px;
-  border-top: 3px solid #DDAF94;
-  background-color:  #E8CEBF;
+  border-top: 3px solid #3D3B8E;
+  background-color:  #668586;
 }
 
 form {
@@ -99,8 +99,8 @@ textarea {
 button {
   height: 40px;
   width: 120px;
-  background-color: #4F4846;
-  color: #FDF8F5;
+  background-color: #668586;
+  color: #93032e;
 }
  
 /* Class Selectors */
